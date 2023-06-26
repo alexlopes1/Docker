@@ -1,3 +1,5 @@
+Alex Lopes - 1133527
+
 Docker para criar dois contêineres que hospedam um serviço da web em Python e um banco de dados MySQL. 
 Com o Docker instalado na máquina virtual, rodando em Windows 11, utilizando o VMWare. Foram realizadas as etapas abaixo:
 
